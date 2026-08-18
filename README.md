@@ -10,14 +10,6 @@ A modern, responsive dashboard built with **React** and **Redux** for managing p
 
 ---
 
-## 🎥 Explanation Video
-
-[![Google Drive Video](https://img.shields.io/badge/Google_Drive-Watch_Explanation_Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1TburdB_QcmBOnovONcRAj5gCM2euKWbW)
-
-👉 **[Click here to view the project walkthrough video on Google Drive](https://drive.google.com/drive/folders/1TburdB_QcmBOnovONcRAj5gCM2euKWbW)**
-
----
-
 ## 🚀 Key Features
 
 * **Dashboard Analytics Overview**: Real-time counter metrics displaying total content items, total blog articles, and portfolio image counts.
